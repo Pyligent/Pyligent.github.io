@@ -4,7 +4,7 @@ published: true
 bigimg: '/img/Oscars.jpg'
 title: 'Oscar Movie Prediction Models'
 subtitle: "Dataset/API : TMDB"
-
+tags: [Machine Learning, Predictive Model]
 ---
 
 #### 2019 Oscar Best Picture Prediction [Github]((https://github.com/Pyligent/2019_Oscar_Best_Picture_Prediction))
