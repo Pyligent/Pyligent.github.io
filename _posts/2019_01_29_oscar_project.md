@@ -1,16 +1,11 @@
 ---
 layout: post
 published: true
+title: "Oscar Movie Prediction Models"
+subtitle: "Dataset/API : TMDB"
 title: 2019_01_28_oscar_project.md
 ---
 
----
-layout: post
-title: "Oscar Movie Prediction Models"
-subtitle: "Dataset/API : TMDB"
-bigimg: /img/path.jpg
-
----
 
 Oscar Movie Prediction Models - Logisitc gression/GBM/Ensemble
 
