@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags: [Machine Learning, Fraud Detection]
 ---
 
-###  Analytical Problem and Project Objectives 
+###  CMS Medicare Data Fraud Detection [GitHub](https://github.com/Pyligent/CMS-Medicare-Data-FRAUD-Detection)
 
 #### Problem Definition
 Healthcare fraud is a main problem that causes substantial monetary loss in Medicare/Medicaid and insurance industry. The Centers for Medicare and Medicaid Services (CMS) have setup Medicare Part D programs since 2006. CMS relies on it to detect and prevent fraud, waste and abuse in Part D program. But using the traditional methods, the fraud detection is conducted on random samples by human experts. The consequences are the samples might be misleading or manual detection is costly. According to Office of Inspector General report: Since 2006, the Medicare Fraud has rapidly increased. The fraud patterns include the following four types:
@@ -31,7 +31,7 @@ This project will try to use the machine learning method to address the above pr
 - Market-ready product
 
 ### Data Set:
-We will use the following open datasets:
+We will use the following open [datasets](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads.html):
 - Part D Prescriber dataset 
 - Excluded (LEIE) dataset
 - Payment Received dataset
