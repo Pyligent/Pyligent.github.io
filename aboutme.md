@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
+bigimg: img/aboutme.jpg
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Certified data scientist with years of experience in data project and freelance jobs
+- Highly skilled in machine learning, data visualization, and creative thinking.
+- Years Telecommunication industry experiences in the next generation network solution
+- Worked at Bell Labs and got one U.S. Patent in networking area
+- Entrepreneur with technical innovation and Strong passion for analytics and data mining to drive business decisions
+- Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner
