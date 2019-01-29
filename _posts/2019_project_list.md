@@ -1,10 +1,9 @@
-   
 ---
 layout: post
-title: Projects List
-subtitle: List
+image: '/img/background1.png'
+title: "Projects List"
+subtitle: "All Projects"
 ---
-
 
 # Welcome to Tao Jin's GitHub Pages
 
