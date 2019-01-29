@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Oscar Movie Prediction Models'
 subtitle: "Dataset/API : TMDB"
-bigimage: '/img/oscar.jpg'
+bigimg: '/img/oscar.jpg'
 ---
 
 
