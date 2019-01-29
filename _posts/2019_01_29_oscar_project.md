@@ -1,3 +1,8 @@
+---
+layout: post
+published: false
+title: 2019_01_28_oscar_project.md
+---
 
 ---
 layout: post
