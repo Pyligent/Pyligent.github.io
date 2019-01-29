@@ -1,6 +1,6 @@
 ---
 layout: post
-image: '/img/background1.png'
+image: '/img/background1.jpg'
 title: "Projects List"
 subtitle: "All Projects"
 ---
