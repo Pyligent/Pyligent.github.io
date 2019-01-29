@@ -2,7 +2,7 @@
 layout: page
 title: About me
 bigimg: img/aboutme.jpg
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Science and Machine Learning Enthusiast
 ---
 
 - Certified data scientist with years of experience in data project and freelance jobs
