@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-bigimg: img/aboutme.jpg
+bigimg: /img/aboutme.jpg
 subtitle: Data Science and Machine Learning Enthusiast
 ---
 
