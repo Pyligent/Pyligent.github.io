@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Oscar Movie Prediction Models"
 subtitle: "Dataset/API : TMDB"
-title: 2019_01_29_oscar_project.md
+title: 2018-11-29-oscar-project.md
 ---
 
 
