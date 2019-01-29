@@ -6,11 +6,11 @@ bigimg: /img/car_project.jpg
 tags: [Data Analytics, ELT]
 ---
 
-### *Project Website:<https://pyligent.github.io/Car_ETL_PROJECT/>*
+#### *Project Website:<https://pyligent.github.io/Car_ETL_PROJECT/>*
 
 
 
-## Table of Contents
+#### Table of Contents
 + [Data Source](#Data-Source)
 + [1. Extraction](#1-Extraction)
 + [2. Transformation](#2-Transformation)
@@ -18,7 +18,7 @@ tags: [Data Analytics, ELT]
 + [4. Load](#4-Load)
 
 ---
-## Data Source
+#### Data Source
 - Scraped:   [Kijiji Car Website (GTA Data)](https://www.kijiji.ca/b-cars-vehicles/city-of-toronto/c27l1700273)
 - Scraped:   <https://www.autolist.com> (U.S. Data)
 - API:       [Car Query API](http://www.carqueryapi.com/) (use the [json files](data/carquery.json))
@@ -26,14 +26,14 @@ tags: [Data Analytics, ELT]
 - CSV:        <https://www.kaggle.com/toramky/automobile-dataset/kernels?sortBy=hotness&group=everyone&pageSize=20&datasetId=1291&language=Python>
 
 
-## 1. Extraction
+#### 1. Extraction
 
-### 1.1. Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
+##### 1.1. Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
 
 [A. Kijiji Scaper (raw data)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijii_car_scaper.ipynb)
 
 [B. Kijiji Scaper (clean data with vin number and image link)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijiji_car_scaper_fullset.ipynb)
-#### Key Car information is as below(Clean Data Scraper):
+##### Key Car information is as below(Clean Data Scraper):
 
 - 'brand'
 - 'model'
@@ -52,9 +52,9 @@ tags: [Data Analytics, ELT]
 - 'image_link'
 - 'dealer_address'
 
-#### Examples:
+##### Examples:
 
-#### Car Information link: https://www.kijiji.ca/v-cars-trucks/city-of-toronto/2009-ford-f-150-xlt-super-crew-4x4/1385290163
+##### Car Information link: https://www.kijiji.ca/v-cars-trucks/city-of-toronto/2009-ford-f-150-xlt-super-crew-4x4/1385290163
 
 - brand: 'Ford'
 - model: 'F-150'
@@ -73,12 +73,12 @@ tags: [Data Analytics, ELT]
 - image_link: 'https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/c9AAAOSwDkBbpAaq/$_59.JPG'
 - dealer_address: '2 Castleton Ave unit 3, York, ON, M6N 3Z5'
 
-### 1.2. Extract all listing car information from [autolist website](https://www.autolist.com)
+##### 1.2. Extract all listing car information from [autolist website](https://www.autolist.com)
 - [Autolist.com scaper - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/mlouisju/ETL%20Project%20-%20Autolist.ipynb)
 
-## 2. Transformation
+#### 2. Transformation
 
-### 2.1 Data Tansform - Scraped Data
+##### 2.1 Data Tansform - Scraped Data
 - Clean the dirty data
 - Merge the csv/api data to get the MPG and displacement information
 
@@ -87,8 +87,8 @@ tags: [Data Analytics, ELT]
 - [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://github.com/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_merging.ipynb)
 - [Autolist Data merge with Fuel Economy Database - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Auto_trader_merge.ipynb)
 
-### 2.2 Data Tansform  - API Data
-#### Key Car information extracted is as below:
+##### 2.2 Data Tansform  - API Data
+##### Key Car information extracted is as below:
  - Year
  - Make
  - Model
@@ -98,15 +98,15 @@ tags: [Data Analytics, ELT]
 - [CarQuery API Data Transformation - Json file was downloaded from CarQuery Website - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)
 
 
-## 3. Data Analysis
+#### 3. Data Analysis
 
-### 3.1 Car Information Analysis
+##### 3.1 Car Information Analysis
 - [Car Data Analytics - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/car_query_charts_Tim.ipynb)
 
 
-#### **Question: Can a relationship be made between car prices and fuel econnomy?**
+##### **Question: Can a relationship be made between car prices and fuel econnomy?**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
-```
+
 The following chart showing the displacement of individual results underlaid by a distribution
 graph showing the highest density of results. This database was almost entirely made up of used
 cars, therefore the results we see are a representation of the fuel economy in relation to the
@@ -118,12 +118,12 @@ efficient, between 23 and 30 mpg.These results are driven by two main factors, 1
 to have better fuel economy, and newer used cars are more expensive. Secondly, Cars with higher
 fuel economy and the technologies associated with them also tend to be more expensive.
 
-```
+
  ![Distribution of MPG vs List Price Chart](plot_image/MPG_PRICE.PNG)
 
 
 
-#### **Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
+##### **Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
 ```
 This chart displays the relationship between displacement and fuel economy. In modern cars,
 lower displacement turbo charged motors are producing the same or even more horsepower than
@@ -137,7 +137,7 @@ another level of fuel economy.
 ![Mpg vs Displacement Chart](plot_image/Scatter_Plot_Mph_by_Displacement.png)
 
 
-#### **Question: Can a relationship be made between car brand (make) and fuel econnomy?**
+##### **Question: Can a relationship be made between car brand (make) and fuel econnomy?**
 ```
 This bar graph displays the relationship between car manufacturer and fuel economy. As expected,
 there is a clear correlation between the entry level or “economy brands having better fuel
@@ -156,7 +156,7 @@ fuel efficient.
 ![mpg brand](plot_image/mpg_brand.png)
 
 
-### 3.2 Kijiji Data Analysis
+#### 3.2 Kijiji Data Analysis
 
 - **Total car sales on kijiji website in GTA area based on Model Year**<br/>
 ```
@@ -218,7 +218,7 @@ fuel efficient.
 
 
 
-### 3.3 Autolist Data Analysis
+#### 3.3 Autolist Data Analysis
 
 - **Price vs. Miles per Galon - cars made in 2015 (USA)**
 
@@ -239,13 +239,13 @@ fuel efficient.
 
 
 
-## 4. Load
+#### 4. Load
 
 - put all data into MySql server via pymysql
 
 - [Data Load to MySql Server - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/data_load_mysql.ipynb)
 - load code :
- ```
+
    import pandas as pd`
    import pymysql
    pymysql.install_as_MySQLdb()
@@ -255,5 +255,5 @@ fuel efficient.
    kijiji_full_df.to_sql('kijiji_origin', con=conn)
    autolist_df = pd.read_csv('data/auto_trader_mpgdata.csv')
    autolist_df.to_sql('autolist_data', con=conn)
-   ```
+   
   ![MySql Query](https://github.com/Pyligent/Car_ETL_PROJECT/blob/master/plot_image/Data%20Load.png)
