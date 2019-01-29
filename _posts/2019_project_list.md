@@ -1,4 +1,11 @@
    
+---
+layout: post
+title: Projects List
+subtitle: List
+---
+
+
 # Welcome to Tao Jin's GitHub Pages
 
 "Torture the data, and it will confess to anything.”  - Ronald Coase
