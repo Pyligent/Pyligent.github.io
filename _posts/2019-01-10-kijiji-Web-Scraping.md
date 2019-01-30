@@ -120,7 +120,7 @@ to have better fuel economy, and newer used cars are more expensive. Secondly, C
 fuel economy and the technologies associated with them also tend to be more expensive.
 
 
- ![Distribution of MPG vs List Price Chart](plot_image/MPG_PRICE.PNG)
+ ![Distribution of MPG vs List Price Chart](/img/plot_image/MPG_PRICE.PNG)
 
 
 
@@ -135,7 +135,7 @@ displacement “Hybrids” which supplement combustion power with electrical pow
 another level of fuel economy.
 
 
-![Mpg vs Displacement Chart](plot_image/Scatter_Plot_Mph_by_Displacement.png)
+![Mpg vs Displacement Chart](/img/plot_image/Scatter_Plot_Mph_by_Displacement.png)
 
 
 ##### **Question: Can a relationship be made between car brand (make) and fuel econnomy?**
