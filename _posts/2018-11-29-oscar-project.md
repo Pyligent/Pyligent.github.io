@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-bigimg: '/img/Oscars.jpg'
-image: '/img/prediction.jpg'
+bigimg: /img/Oscars.jpg
 title: 'Oscar Movie Prediction Models'
 subtitle: "Dataset/API : TMDB"
+image: /img/prediction.jpg
 tags: [Machine Learning, Predictive Model]
 ---
 
