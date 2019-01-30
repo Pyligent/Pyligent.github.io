@@ -2,6 +2,7 @@
 layout: post
 published: true
 bigimg: '/img/Oscars.jpg'
+image: '/img/prediction.jpg'
 title: 'Oscar Movie Prediction Models'
 subtitle: "Dataset/API : TMDB"
 tags: [Machine Learning, Predictive Model]
