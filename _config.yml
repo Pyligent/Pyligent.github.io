@@ -26,7 +26,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Home: "index"
   Projects:
-    - Machine Learning: "https://pyligent.github.io/tags/#Machine%20Learning"
+    - Machine Learning: "ml_projects"
     - Data Analytics: "https://pyligent.github.io/tags/#Data%20Analytics"
     - Others: "https://pyligent.github.io/tags/#Others"
   Blogs: "https://pyligent.github.io/tags/#Blogs"
