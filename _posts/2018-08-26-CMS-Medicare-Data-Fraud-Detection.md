@@ -3,6 +3,7 @@ layout: post
 title: CMS Medicare Data Fraud Detection
 subtitle: Fraud Detection in CMS Part D open dataset
 bigimg: /img/path.jpg
+image: /img/cms.png
 tags: [Machine Learning, Fraud Detection]
 ---
 
