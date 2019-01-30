@@ -27,8 +27,8 @@ navbar-links:
   Home: "index"
   Projects:
     - Machine Learning: "ml_projects"
-    - Data Analytics: "https://pyligent.github.io/tags/#Data%20Analytics"
-    - Others: "https://pyligent.github.io/tags/#Others"
+    - Data Analytics: "da_projects"
+    - Others: "others"
   Blogs: "https://pyligent.github.io/tags/#Blogs"
   About Me: "aboutme"
 
