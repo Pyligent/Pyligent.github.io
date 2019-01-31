@@ -2,7 +2,7 @@
 layout: post
 title: FashionMNIST ConvNets
 subtitle: Keras Deep Learning R
-bigimg: /img/path.jpg
+bigimg: /img/dl.jpg
 image: /img/fn1.png
 tags: [Machine Learning, Deep Learning,Keras,R]
 ---
