@@ -3,7 +3,7 @@ layout: post
 title: Time Series Analysis and Forecasting
 subtitle: Tesla Stock Analysis and Forecasting by Time Series Models
 bigimg: /img/ts.jpg 
-image: /image/ts.jpg
+image: /image/t1.jpg
 tags: [Machine Learning, Time Series]
 ---
 
