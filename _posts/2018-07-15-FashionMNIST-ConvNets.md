@@ -14,7 +14,7 @@ tags: [Machine Learning, Deep Learning,Keras,R]
 
 - Convolutional neural networks (ConvNets)
 
-All model will use the Keras framework with R implementation 
+Two models will use the Keras framework with R implementation.
 
 #### [Data Set](https://www.kaggle.com/zalando-research/fashionmnist/data)
 
