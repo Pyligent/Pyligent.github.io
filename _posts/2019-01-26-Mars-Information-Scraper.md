@@ -6,13 +6,9 @@ bigimg: /img/mission_to_mars.jpg
 image: /img/bg.jpg
 tags: [Data Analytics, Web Scraping]
 ---
-
 # Mission to Mars    
-
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
-
 ## Scraping
-
 ### - [Mission to Mars -- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/mars_scraper/blob/master/mission_to_mars_tj.ipynb)
 
 #### NASA Mars News
