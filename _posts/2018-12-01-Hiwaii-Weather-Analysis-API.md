@@ -7,14 +7,14 @@ image: /img/hi.jpg
 tags: [Data Analytics, API, Data Visualization]
 ---
 
-### Climate Analysis and Exploration
+## Climate Analysis and Exploration   
 
 
-#### [Weather Data Visualization Dashboard (Latitude)](https://pyligent.github.io/weatherweb_dashboard/)   
+### [Weather Data Visualization Dashboard (Latitude)](https://pyligent.github.io/weatherweb_dashboard/)      
 
 
-##  Weather Queries
-### Precipitation Analysis
+### Weather Queries   
+#### Precipitation Analysis
 
 * Design a query to retrieve the last 12 months of precipitation data.
 
@@ -29,7 +29,7 @@ tags: [Data Analytics, API, Data Visualization]
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
-### Station Analysis
+#### Station Analysis
 
 * Design a query to calculate the total number of stations.
 
@@ -39,7 +39,7 @@ tags: [Data Analytics, API, Data Visualization]
 
 
 
-### Temperature Analysis
+#### Temperature Analysis
 
 *  Query and calculate the min, avg, and max temperatures for your trip using the matching dates from the previous year (i.e., use "2017-01-01" if your trip start date was "2018-01-01").
 
@@ -50,7 +50,7 @@ tags: [Data Analytics, API, Data Visualization]
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 
  
-### Other Analysis
+#### Other Analysis
 
 * Calculate the rainfall per weather station using the previous year's matching dates.
 
