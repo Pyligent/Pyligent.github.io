@@ -2,14 +2,12 @@
 layout: post
 title: Mars Information Scraper
 subtitle: Pythion Web Scraping
-bigimg: /img/surfs-up.jpeg
-image: /img/hi.jpg
+bigimg: /img/mission_to_mars.jpg
+image: /img/bg.jpg
 tags: [Data Analytics, Web Scraping]
 ---
 
 # Mission to Mars    
-
-![mission_to_mars](img/mission_to_mars.jpg)
 
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
