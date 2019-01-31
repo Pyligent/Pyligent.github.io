@@ -45,7 +45,10 @@ All model will use the Keras framework with R implementation
 #### Assembling Data Set   
   - dataset_fashion_mnist() function from Keras to download the dataset (simple model)
   - Downloaded from the Kaggle.com, then use the read_csv() to manipulate the data (ConvNets Model)
-    
+ 
+ 
+   
+### Result
 #### Simple Model Result
   - Simple deep learning model achieves an accuracy of 88.11% and loss of 34.15%.
 
