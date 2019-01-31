@@ -77,9 +77,9 @@ hemisphere_image_urls = [
 
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.The following is the final website:
 
-![final_app_part1.png](img/Flaskapp_web1.png)   
+![final_app_part1.png](/img/Flaskapp_web1.png)   
 <br>
-![final_app_part2.png](img/web2.png)
-![final_app_part3.png](img/web3.png)
+![final_app_part2.png](/img/web2.png)
+![final_app_part3.png](/img/web3.png)
 
 - - -
