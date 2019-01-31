@@ -15,7 +15,7 @@ tags: [Machine Learning, Deep Learning,Keras,R]
 
 All model will use the Keras framework with R implementation 
 
-#### ![Data Set](https://www.kaggle.com/zalando-research/fashionmnist/data)
+#### [Data Set](https://www.kaggle.com/zalando-research/fashionmnist/data)
 
 - 60000 images for training and 10000 images for testing
 - Each example is a 28x28 gray-scale image, associated with a label from 
@@ -58,7 +58,7 @@ All model will use the Keras framework with R implementation
 ![con1](/img/plot_image/simple_res2.png)
 
 #### Summary
-- Our ConvNets model achieved an accuracy of 91.85%. It turns out our classifier does better than the Kaggle’s best baseline reported here![here](https://www.kaggle.com/zalando-research/fashionmnist/data) , which is an SVM classifier with mean accuracy of 89.7%.
+- Our ConvNets model achieved an accuracy of 91.85%. It turns out our classifier does better than the Kaggle’s best baseline reported [here](https://www.kaggle.com/zalando-research/fashionmnist/data) , which is an SVM classifier with mean accuracy of 89.7%.
    - Comparing the simple model, ConvNets is the best model for the attacking the image classification problems.  
    - Tuning the model and hyper-parameters is very important to improve the accuracy.
 
