@@ -3,16 +3,12 @@ layout: post
 title: FashionMNIST ConvNets
 subtitle: Keras Deep Learning R
 bigimg: /img/path.jpg
-image: /img/fn.png
+image: /img/fn1.png
 tags: [Machine Learning, Deep Learning,Keras,R]
 ---
-
 ### FashionMNIST ConvNets Deep Learning Project    
-
 #### Using two Deep learning models to Classify the image from Fashion-MNIST dataset
-
 - Basic Model (fully connected layer model)
-
 - Convolutional neural networks (ConvNets)
 
 Two models will use the Keras framework with R implementation.
