@@ -7,7 +7,8 @@ image: /img/fn.png
 tags: [Machine Learning, Deep Learning,Keras,R]
 ---
 
-### FashionMNIST ConvNets Deep Learning Project
+### FashionMNIST ConvNets Deep Learning Project    
+
 #### Using two Deep learning models to Classify the image from Fashion-MNIST dataset
 
 - Basic Model (fully connected layer model)
