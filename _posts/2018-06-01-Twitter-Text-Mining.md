@@ -3,8 +3,8 @@ layout: post
 title: Twitter Text Mining
 subtitle: Trump and Clinton’s Tweets Analysis in 2016 presidential campaign.
 bigimg: /img/trumpclinton.png 
-image: /image/twitter.jpg
-tags: [Data Analytics, ELT]
+image: /img/twitter.jpg
+tags: [Machine Learning, Text Mining]
 ---
 
 ### Twitter Text Mining    
