@@ -1,18 +1,13 @@
-
 ---
 layout: post
 title: Hiwaii Weather Analysis and API Wrapper
 subtitle: SQLAlchmy Flask Application
 bigimg: /img/surfs-up.jpeg
-image: /img/kijiji.png
+image: /img/hi.jpg
 tags: [Data Analytics, API, Data Visualization]
 ---
 
-
-
-
-
-## Climate Analysis and Exploration
+### Climate Analysis and Exploration
 
 
 #### [Weather Data Visualization Dashboard (Latitude)](https://pyligent.github.io/weatherweb_dashboard/)   
