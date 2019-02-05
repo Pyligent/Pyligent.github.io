@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kijiji Web Scraping Project
-subtitle: Scapping Car information from kijiji website
+subtitle: Scrapping Car information from kijiji website
 bigimg: /img/car_project.jpg
 image: /img/kijiji.png
 tags: [Data Analytics, Web Scraping, ELT]
