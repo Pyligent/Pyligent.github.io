@@ -16,3 +16,6 @@ curious and courageous minds, we have the expertise to go deep with the world’
  
 Now, we’re calling all you rule-breakers and risk-takers who see the world differently, and are bold enough to reinvent it. 
 Transformation happens here.
+
+
+- Photo by Oz MLCN on Unsplash
