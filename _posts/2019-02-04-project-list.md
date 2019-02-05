@@ -52,6 +52,11 @@ subtitle: "All Projects"
 #### - [Social Media Mining - Twitter Analysis](https://github.com/Pyligent/Social-Media-Mining)
 
 
+### JavaScript Projects
+
+#### [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)
+
+
 ### Peronal Startup Project
 
 #### - [StyleMe Project(with MIT Entrepreneur Program)](https://github.com/Pyligent/fashionstyle_project)
