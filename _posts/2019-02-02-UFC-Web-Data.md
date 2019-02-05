@@ -10,6 +10,9 @@ tags: [Jacascript]
 
 ## JavaScript and DOM Manipulation
 
+### [Website Demo](https://pyligent.github.io/ufo_web_data/)
+### [GitHub](https://github.com/Pyligent/ufo_web_data/)
+
 ### Automatic Table and Date Search
 
 * Create a basic HTML web page dispay the UFO data
@@ -35,5 +38,5 @@ tags: [Jacascript]
 
 ### Dataset
 
-* [UFO Sightings Data](/static/js/data.js)
+* [UFO Sightings Data](https://github.com/Pyligent/ufo_web_data/blob/master/static/js/data.js)
 
