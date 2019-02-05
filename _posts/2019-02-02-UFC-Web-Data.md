@@ -1,4 +1,12 @@
-# ufo_web_data
+---
+layout: post
+title: UFO Web Data
+subtitle: JavaScript and DOM Manipulation
+bigimg: /img/ufo_1.jpg 
+image: /img/ufo_2.jpg
+tags: [Jacascript]
+---
+# UFO Web Data
 
 ## JavaScript and DOM Manipulation
 
