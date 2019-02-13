@@ -8,14 +8,15 @@ tags: [Jacascript,Flask,API]
 ---
 
 
-### Web Visualization Flask Full Stack Application [GitHub](https://github.com/Pyligent/belly_button_biodiversity)
-### Belly Button Biodiversity  [https://belly-button-biodiversity-tj.herokuapp.com](https://belly-button-biodiversity-tj.herokuapp.com)
+### Web Visualization Flask Full Stack Application [
+    - GitHub](https://github.com/Pyligent/belly_button_biodiversity)
+#### Belly Button Biodiversity  [https://belly-button-biodiversity-tj.herokuapp.com](https://belly-button-biodiversity-tj.herokuapp.com)
 
 ![Bacteria by filterforge.com](http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg)
 
 This project is to build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
-## Part 1 - Plotly.js
+### Part 1 - Plotly.js
 
 Use Plotly.js to build interactive charts for your dashboard.
 
@@ -51,14 +52,14 @@ Use Plotly.js to build interactive charts for your dashboard.
 * Update all of the plots any time that a new sample is selected.
 
 
-## Part 2 - Heroku
+### Part 2 - Heroku
 
 Deploy this Flask app to Heroku. <https://belly-button-biodiversity-tj.herokuapp.com>
 
 
 - - -
 
-## Flask API
+### Part 3 Flask API
 
 Use Flask API starter code to serve the data needed for your plots.
 
