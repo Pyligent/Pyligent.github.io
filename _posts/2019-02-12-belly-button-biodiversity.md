@@ -1,3 +1,13 @@
+---
+layout: post
+title: Web Visualization Flask Full Stack Application
+subtitle: Belly Button Biodiversity
+bigimg: http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg 
+image: /img/bio.jpg
+tags: [Jacascript]
+---
+
+
 # Web Visualization Flask Full Stack Application
 ## Belly Button Biodiversity <https://belly-button-biodiversity-tj.herokuapp.com>
 
