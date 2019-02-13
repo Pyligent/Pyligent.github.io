@@ -27,6 +27,8 @@ subtitle: "All Projects"
 
 ### Python Flask API and Scraping Projects
 
+#### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)
+
 #### - [Mission to Mars - Realtime Scraping NASA/JPL Mars information](https://github.com/Pyligent/mars_scraper/blob/master/README.md)
 
 #### - [Hiwaii Weather Analysis and API Wrapper - SQLAlchmy Flask Application](https://github.com/Pyligent/SQLAlchemy_Flask)
