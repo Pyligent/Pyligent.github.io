@@ -3,8 +3,7 @@ layout: post
 image: '/img/background1.jpg'
 title: "Projects List"
 subtitle: "All Projects"
-
-
+---
 
 ## Welcome to Tao Jin's GitHub Pages
 
@@ -57,7 +56,9 @@ subtitle: "All Projects"
 
 ### JavaScript Projects
 
-#### [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)
+#### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)
+
+#### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)
 
 
 ### Peronal Startup Project
