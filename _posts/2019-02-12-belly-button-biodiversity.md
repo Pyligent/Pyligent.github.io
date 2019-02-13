@@ -8,7 +8,7 @@ tags: [Jacascript,Flask,API]
 ---
 
 
-### Web Visualization Flask Full Stack Application [
+### Web Visualization Flask Full Stack Application
    [GitHub](https://github.com/Pyligent/belly_button_biodiversity)   
    
 #### Belly Button Biodiversity  [https://belly-button-biodiversity-tj.herokuapp.com](https://belly-button-biodiversity-tj.herokuapp.com)
