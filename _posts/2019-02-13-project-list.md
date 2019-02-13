@@ -3,9 +3,10 @@ layout: post
 image: '/img/background1.jpg'
 title: "Projects List"
 subtitle: "All Projects"
----
 
-# Welcome to Tao Jin's GitHub Pages
+
+
+## Welcome to Tao Jin's GitHub Pages
 
 "Torture the data, and it will confess to anything.”  - Ronald Coase
 
