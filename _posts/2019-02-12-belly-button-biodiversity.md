@@ -69,3 +69,16 @@ Use Flask API starter code to serve the data needed for your plots.
 *  wash freq. API: route `/wfreq/<sample>`
 
 
+- - -
+
+
+## Deployment Notes:
+Renaming Apps from the CLI:    
+$ heroku apps:rename newname     
+You can also rename an app from outside of its associated Git repository by including the --app option in the command:    
+$ heroku apps:rename newname --app oldname    
+
+Updating Git remotes:    
+$ git remote rm heroku    
+$ heroku git:remote -a newname    
+
