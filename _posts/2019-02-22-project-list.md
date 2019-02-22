@@ -40,6 +40,7 @@ subtitle: "All Projects"
 ##### - [Python Web Scraping Project](https://pyligent.github.io/Car_ETL_PROJECT/)
 
 <hr>
+
 #### Data Visualization and JavaScript Projects
 
 ##### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income](https://pyligent.github.io/D3_DataViz/)
@@ -72,9 +73,12 @@ subtitle: "All Projects"
 ##### - [StyleMe Project(with MIT Entrepreneur Program)](https://github.com/Pyligent/fashionstyle_project)
 
 <hr>
+
 #### SQL Project
 
 ##### - [SQL](https://github.com/Pyligent/SQL)
+
+<hr>
 
 #### Excel/VBA Analysis Project
 
