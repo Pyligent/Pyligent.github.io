@@ -54,7 +54,9 @@ subtitle: "All Projects"
 #### - [Social Media Mining - Twitter Analysis](https://github.com/Pyligent/Social-Media-Mining)
 
 
-### JavaScript Projects
+### Data Visualization and JavaScript Projects
+
+#### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income](https://pyligent.github.io/D3_DataViz/)
 
 #### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)
 
