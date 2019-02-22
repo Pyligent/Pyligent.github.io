@@ -62,7 +62,7 @@ subtitle: "All Projects"
 <hr>
 
 
-#### Python Pandas/data visualization/Algorithm
+#### Python Challenge
 
 ##### - [Python Projects - Pandas/Matplotlib/Coding Challenge](https://github.com/Pyligent/python-challenge)
 
