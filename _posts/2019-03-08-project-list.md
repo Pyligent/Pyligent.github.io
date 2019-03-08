@@ -43,6 +43,8 @@ subtitle: "All Projects"
 
 ### Data Visualization and JavaScript Projects
 
+#### - [United States Geological Survey Data Visualization](https://pyligent.github.io/USGS_DataVisualization/)
+
 #### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income](https://pyligent.github.io/D3_DataViz/)
 
 #### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)
