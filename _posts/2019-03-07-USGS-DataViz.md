@@ -4,7 +4,7 @@ title: United States Geological Survey Data Visualization
 subtitle:  GeoMapping and Leaflet
 bigimg: /img/usgs.gif
 image: /img/usgslogo.jpg
-tags: [D3, Data Visualization,Jacascript,Data Journalism]
+tags: [GeoJSON,leaflet,Data Visualization,Jacascript,Data Journalism]
 ---
 
 
