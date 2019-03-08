@@ -1,6 +1,18 @@
 ---
-permalink: /index.html
+layout: post
+title: Interactive Data Visualization 
+subtitle:  Behavioral Risk Factor Surveillance System
+bigimg: /img/usgs.gif
+image: /img/usgslogo.jpg
+tags: [D3, Data Visualization,Jacascript,Data Journalism]
 ---
+
+
+
+
+### Data Journalism and D3 
+##### [GitHub](https://github.com/Pyligent/USGS_DataVisualization)
+##### [Data Visualization link](https://pyligent.github.io/USGS_DataVisualization/)
 
 # United States Geological Survey Data Visualization
 
