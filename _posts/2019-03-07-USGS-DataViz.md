@@ -2,7 +2,7 @@
 layout: post
 title: United States Geological Survey Data Visualization 
 subtitle:  GeoMapping and Leaflet
-bigimg: /img/geo/Images/1-Logo.png
+bigimg: /img/geo.jpeg
 image: /img/usgslogo.jpg
 tags: [GeoJSON,leaflet,Data Visualization,Jacascript,Data Journalism]
 ---
@@ -13,9 +13,10 @@ tags: [GeoJSON,leaflet,Data Visualization,Jacascript,Data Journalism]
 ## United States Geological Survey Data Visualization 
 
 #### [GitHub](https://github.com/Pyligent/USGS_DataVisualization)
-#### [Data Visualization link](https://pyligent.github.io/USGS_DataVisualization/)
+#### [Data Visualization link](https://pyligent.github.io/USGS_DataVisualization/)    
 
-## Background
+
+### Background
 
 ![1-Logo](/img/geo/Images/1-Logo.png)
 
@@ -32,7 +33,7 @@ Your first task is to visualize an earthquake data set.
 
 1. **Get your data set**
 
-   ![3-Data](/geo/Images/3-Data.png)
+   ![3-Data](/img/geo/Images/3-Data.png)
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
 
