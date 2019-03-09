@@ -2,7 +2,7 @@
 layout: post
 title: United States Geological Survey Data Visualization 
 subtitle:  GeoMapping and Leaflet
-bigimg: /img/usgs.gif
+bigimg: /img/geo/Images/1-Logo.png
 image: /img/usgslogo.jpg
 tags: [GeoJSON,leaflet,Data Visualization,Jacascript,Data Journalism]
 ---
@@ -10,12 +10,10 @@ tags: [GeoJSON,leaflet,Data Visualization,Jacascript,Data Journalism]
 
 
 
-### United States Geological Survey Data Visualization 
+## United States Geological Survey Data Visualization 
 
 #### [GitHub](https://github.com/Pyligent/USGS_DataVisualization)
 #### [Data Visualization link](https://pyligent.github.io/USGS_DataVisualization/)
-
-## United States Geological Survey Data Visualization
 
 ## Background
 
