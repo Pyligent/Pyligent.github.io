@@ -25,7 +25,17 @@ subtitle: "All Projects"
 ##### - [Social Media Mining - Twitter Analysis](https://github.com/Pyligent/Social-Media-Mining)
 <hr>
 
-### Python Flask API and Scraping Projects   
+### Data Visualization/Web Scraping/Restful API/Python Flask Flask/JavaScript Projects   
+
+##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
+
+##### - [United States Geological Survey Data Visualization(GeoJSON/Leaflet)](https://pyligent.github.io/USGS_DataVisualization/)   
+
+##### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income(D3.js)](https://pyligent.github.io/D3_DataViz/)   
+
+##### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)   
+
+##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
 ##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)      
 
@@ -39,19 +49,6 @@ subtitle: "All Projects"
 
 ##### - [Python Web Scraping Project](https://pyligent.github.io/Car_ETL_PROJECT/)   
 
-<hr>
-
-### Data Visualization and JavaScript Projects
-
-##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
-
-##### - [United States Geological Survey Data Visualization(GeoJSON/Leaflet)](https://pyligent.github.io/USGS_DataVisualization/)   
-
-##### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income(D3.js)](https://pyligent.github.io/D3_DataViz/)   
-
-##### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)   
-
-##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
 <hr>
 
