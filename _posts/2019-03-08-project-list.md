@@ -27,29 +27,31 @@ subtitle: "All Projects"
 
 ### Python Flask API and Scraping Projects   
 
-#### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)
+#### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
-#### - [Mission to Mars - Realtime Scraping NASA/JPL Mars information](https://github.com/Pyligent/mars_scraper/blob/master/README.md)
+#### - [Mission to Mars - Realtime Scraping NASA/JPL Mars information](https://github.com/Pyligent/mars_scraper/blob/master/README.md)   
 
-#### - [Hiwaii Weather Analysis and API Wrapper - SQLAlchmy Flask Application](https://github.com/Pyligent/SQLAlchemy_Flask)
+#### - [Hiwaii Weather Analysis and API Wrapper - SQLAlchmy Flask Application](https://github.com/Pyligent/SQLAlchemy_Flask)   
 
-#### - [OpenWeatherMap API Project](https://github.com/Pyligent/Python_api/tree/master/Weather_API)
+#### - [OpenWeatherMap API Project](https://github.com/Pyligent/Python_api/tree/master/Weather_API)   
 
 #### - [Weather Data Visualization Dashboard (Latitude)](https://pyligent.github.io/weatherweb_dashboard/)
 
-#### - [Python Web Scraping Project](https://pyligent.github.io/Car_ETL_PROJECT/)
+#### - [Python Web Scraping Project](https://pyligent.github.io/Car_ETL_PROJECT/)   
 
 <hr>
 
 ### Data Visualization and JavaScript Projects
 
-#### - [United States Geological Survey Data Visualization(GeoJSON/Leaflet)](https://pyligent.github.io/USGS_DataVisualization/)
+#### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
 
-#### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income(D3.js)](https://pyligent.github.io/D3_DataViz/)
+#### - [United States Geological Survey Data Visualization(GeoJSON/Leaflet)](https://pyligent.github.io/USGS_DataVisualization/)   
 
-#### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)
+#### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income(D3.js)](https://pyligent.github.io/D3_DataViz/)   
 
-#### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)
+#### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)   
+
+#### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
 <hr>
 
