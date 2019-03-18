@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Exploring Inc. Magazine's 2018 fastest growing private companies in America 
-subtitle:  Full Stack Dashboard and Geo-mapping
+title: CitiBike NYC Data Analytics 
+subtitle:  Tableau Data Visualization
 bigimg: /img/citibike1.jpg
 image: /img/citibike2.png
 tags: [Data Visualization,Tableau]
