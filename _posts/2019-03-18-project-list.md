@@ -49,6 +49,8 @@ subtitle: "All Projects"
 
 ##### - [Python Web Scraping Project](https://pyligent.github.io/Car_ETL_PROJECT/)   
 
+##### - [Tableau - CitiBike in NYC Analytics](https://public.tableau.com/profile/taojin5273#!/vizhome/CitiBikeMapsinNYC/Dashboard-UserType)
+
 
 <hr>
 
