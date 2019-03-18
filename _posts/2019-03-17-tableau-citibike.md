@@ -7,14 +7,16 @@ image: /img/citibike2.jpeg
 tags: [Data Visualization,Tableau]
 ---
 
-## Citi Bike Analytics
+## Citi Bike Analytics   
+    
    
 
-### The Tableau Visualization [Link](https://public.tableau.com/profile/taojin5273#!/vizhome/CitiBikeMapsinNYC/Dashboard-UserType)
+#### The Tableau Visualization [Link](https://public.tableau.com/profile/taojin5273#!/vizhome/CitiBikeMapsinNYC/Dashboard-UserType)
 
 
-
-## Background
+   
+   
+#### Background
 
 ![Citi-Bikes](/img/citibike3.jpeg)
 
