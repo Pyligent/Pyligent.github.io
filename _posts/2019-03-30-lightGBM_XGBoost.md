@@ -10,7 +10,7 @@ tags: [XGBoost,LightGBM,Machine Learning]
 
 ## Light GBM model vs XGBoost Model
 
-In this blog, I have summarized the two most high performance tree models: Light GBM and XGBoost. Also I use the Census Income dataset to verified their performance and baisc usages. You can reference the juypter [notebook](https://nbviewer.jupyter.org/github/Pyligent/lightGBM_vs_XGBoost/blob/master/Light%20GBM%20vs%20xgboost%20Model.ipynb).
+In this blog, I have summarized the two most high performance tree models: Light GBM and XGBoost. Also I use the Census Income dataset to verified their performance and baisc usages. You can reference my juypter [notebook here](https://nbviewer.jupyter.org/github/Pyligent/lightGBM_vs_XGBoost/blob/master/Light%20GBM%20vs%20xgboost%20Model.ipynb).
 
 ### 1.Light GBM model
 
