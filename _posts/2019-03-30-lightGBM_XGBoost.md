@@ -2,7 +2,7 @@
 layout: post
 title: Light GBM model vs XGBoost Model 
 subtitle:  Decision Tree Model Comparsion
-bigimg: /img/treemodel.jpg
+bigimg: /img/treemodel.jpeg
 image: /img/leaf.jpeg
 tags: [XGBoost,LightGBM,Machine Learning]
 ---
