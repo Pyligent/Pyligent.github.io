@@ -10,6 +10,8 @@ tags: [XGBoost,LightGBM,Machine Learning]
 
 ## Light GBM model vs XGBoost Model
 
+In this blog, I have summarized the two most high performance tree models: Light GBM and XGBoost. Also I use the Census Income dataset to verified their performance and baisc usages. You can reference the juypter [notebook]().
+
 ### 1.Light GBM model
 
 - **Light GBM is a fast, distributed, high-performance gradient boosting framework based on decision tree algorithm, used for ranking, classification and many other machine learning tasks.**
