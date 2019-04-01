@@ -2,8 +2,8 @@
 layout: post
 title: Light GBM model vs XGBoost Model 
 subtitle:  Decision Tree Model Comparsion
-bigimg: /img/citibike1.jpg
-image: /img/citibike2.jpeg
+bigimg: /img/treemodel.jpg
+image: /img/leaf.jpeg
 tags: [XGBoost,LightGBM,Machine Learning]
 ---
    
@@ -131,9 +131,9 @@ These parameters are used to define the optimization objective the metric to be 
     
 ### 3. "Census Income" Dataset to test Light GBM and XGBoost model   
 
-![Model Performence](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/gbm_result.png)   
-![light GBM ROC Curve](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/lightgbm.png)
-![XGBoost ROC Curve](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/xgboost.png)
+![Model Performence](/img/gbm_result.png)   
+![light GBM ROC Curve](/img/lightgbm.png)
+![XGBoost ROC Curve](/img/xgboost.png)
 
 
 
