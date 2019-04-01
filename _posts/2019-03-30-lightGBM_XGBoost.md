@@ -1,3 +1,13 @@
+---
+layout: post
+title: Light GBM model vs XGBoost Model 
+subtitle:  Decision Tree Model Comparsion
+bigimg: /img/citibike1.jpg
+image: /img/citibike2.jpeg
+tags: [XGBoost,LightGBM,Machine Learning]
+---
+   
+
 ## Light GBM model vs XGBoost Model
 
 ### 1.Light GBM model
