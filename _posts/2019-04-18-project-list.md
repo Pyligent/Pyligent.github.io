@@ -10,7 +10,16 @@ subtitle: "All Projects"
 "Torture the data, and it will confess to anything.”  - Ronald Coase
 
 ### Project Lists   
+
 <hr>
+
+### Full Stack Projects
+   
+##### - [Yelp Business Data Analytics](https://github.com/Pyligent/yelp_project)
+
+
+##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
+
 
 ### Machine Learning Projects   
 
