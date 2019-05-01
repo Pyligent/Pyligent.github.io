@@ -4,7 +4,7 @@ title: Hiwaii Weather Analysis and API Wrapper
 subtitle: SQLAlchmy Flask Application
 bigimg: /img/surfs-up.jpeg
 image: /img/hi.jpg
-tags: [Data Analytics, API, Data Visualization]
+tags: [Data Analytics, API, Data Visualization,RESTful API,Python,Flask]
 ---
 
 ## Climate Analysis and Exploration[GitHub](https://github.com/Pyligent/SQLAlchemy_Flask)   
