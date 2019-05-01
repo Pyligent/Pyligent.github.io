@@ -4,7 +4,7 @@ title: Genpack Machine Learning Hackathon
 subtitle: GBoosting Model Prediction
 bigimg: /img/shack.jpg
 image: /img/shack1.jpg
-tags: [Machine Learning]
+tags: [Machine Learning,Python]
 ---
 #### [GitHub](https://github.com/Pyligent/Genpack_machine_learning_hackathon)
 ### About Genpact:
