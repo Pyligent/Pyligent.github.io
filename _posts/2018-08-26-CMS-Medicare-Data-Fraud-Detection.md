@@ -4,7 +4,7 @@ title: CMS Medicare Data Fraud Detection
 subtitle: Fraud Detection in CMS Part D open dataset
 bigimg: /img/path.jpg
 image: /img/cms.png
-tags: [Machine Learning, Fraud Detection]
+tags: [Machine Learning, Fraud Detection,Python, Big Query]
 ---
 
 ###  CMS Medicare Data Fraud Detection [GitHub](https://github.com/Pyligent/CMS-Medicare-Data-FRAUD-Detection)
