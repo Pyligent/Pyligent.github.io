@@ -4,7 +4,7 @@ title: Time Series Analysis and Forecasting
 subtitle: Tesla Stock Analysis and Forecasting by Time Series Models
 bigimg: /img/ts.jpg 
 image: /img/t1.jpg
-tags: [Machine Learning, Time Series]
+tags: [Machine Learning, Time Series,R]
 ---
 ###  Time Series Analysis
 - Tesla Stock Forecasting by Time Series Models
