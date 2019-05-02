@@ -4,7 +4,7 @@ title: Web Visualization Flask Full Stack Application
 subtitle: Belly Button Biodiversity
 bigimg: /img/bio1.jpg
 image: /img/bio.jpg
-tags: [Jacascript,Flask,API,Python]
+tags: [Jacascript,Flask,API,Python,Full Stack]
 ---
 
 
