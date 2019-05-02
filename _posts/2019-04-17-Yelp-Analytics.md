@@ -4,7 +4,7 @@ title: Yelp Business Data Analytics
 subtitle:  Dashborad,Recommendation and Rating Prediction
 bigimg: /img/yelpface.jpeg
 image: /img/Yelp_Logo.png
-tags: [Data Visualization,Machine Learning,Recommendation Algorithm,Full Stack,Flask]
+tags: [Data Visualization,Machine Learning,Recommendation Algorithm,Full Stack,Flask,Python,JavaScript,Leaflet,API]
 ---
 
 
