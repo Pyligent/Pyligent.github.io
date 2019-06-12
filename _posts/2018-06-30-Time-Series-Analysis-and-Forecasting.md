@@ -6,7 +6,7 @@ bigimg: /img/ts.jpg
 image: /img/t1.jpg
 tags: [Machine Learning, Time Series,R]
 ---
-###  Time Series Analysis
+###  Time Series Analysis   [GitHub](https://github.com/Pyligent/Telsa-Stock-Analysis-R-)
 - Tesla Stock Forecasting by Time Series Models
 By getting the Tesla Company’s stock information (NASDAQ: TSLA) through the Yahoo Finance. This project will apply the time series analysis methods to investigate the TSLA’s basic information, decompose the TLSA’s time series. 
 - The exponential smoothing methods to forecast the TSLA’s price in the coming 365 days, and then will use 
