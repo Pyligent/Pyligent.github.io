@@ -25,7 +25,7 @@ subtitle: "All Projects"
 
 ##### - [Light GBM model vs XGBoost Model](https://github.com/Pyligent/lightGBM_vs_XGBoost)
 
-##### - [Oscar Movie Prediction Models - Logisitc gression/GBM/Ensemble](https://github.com/Pyligent/2019_Oscar_Best_Picture_Prediction)    
+##### - [Oscar Movie Prediction Models - Logisitc regression/GBM/Ensemble](https://github.com/Pyligent/2019_Oscar_Best_Picture_Prediction)    
    
 ##### - [CMS Medicare Fraud Detection Model- Google BigQuery and PySpark](https://github.com/Pyligent/CMS-Medicare-Data-FRAUD-Detection)
 
