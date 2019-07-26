@@ -21,6 +21,10 @@ subtitle: "All Projects"
 ##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
 
 
+##### - [Data Analytics and Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
+
+
+
 ### Machine Learning Projects   
 
 ##### - [Light GBM model vs XGBoost Model](https://github.com/Pyligent/lightGBM_vs_XGBoost)
@@ -47,8 +51,6 @@ subtitle: "All Projects"
 ##### - [Interactive Data Visualization - Correlations Discovered Between Health Risks and Age, Income(D3.js)](https://pyligent.github.io/D3_DataViz/)   
 
 ##### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)   
-
-##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
 ##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)      
 
