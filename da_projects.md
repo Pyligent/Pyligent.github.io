@@ -13,7 +13,10 @@ bigimg: /img/aboutme.jpg
 ##### - [Yelp Business Data Analytics](https://github.com/Pyligent/yelp_project)
 
 
-##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
+##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)    
+
+##### - [Data Analytics Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
+
 
 <hr>
 
@@ -27,7 +30,6 @@ bigimg: /img/aboutme.jpg
 
 ##### - [UFO Web Data(Javascript and DOM manipulation)](https://pyligent.github.io/ufo_web_data/)   
 
-##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
 ##### - [Web Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)      
 
