@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yelp Business Data Analytics 
+title: Business Data Analytics - Yelp DataSet
 subtitle:  Dashborad,Recommendation and Rating Prediction
 bigimg: /img/yelpface.jpeg
 image: /img/Yelp_Logo.png
