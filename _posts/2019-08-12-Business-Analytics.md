@@ -22,6 +22,19 @@ what's current ratings and reviews for exist owners,etc.
 A unified business data analytics platform will solve this problem. This platform will provide the detailed business insights and recommendations based on different industry and provide the rating prediction.
 <hr>
 
+### Project Overview
+This project's target is to build Unified Business Data Analytics platform(Web/Mobile),the major functionalities are:
+- Integrated Data Analytics Platform to provide Data Pipeline, Data Dashboard, Business Insight, Geographical Analysis, Rating Prediction and Business Recommendation
+- Build the deep learning sentiment analysis model to predict rating(improved accuracy to 80%+)
+- Hybrid Recommendation Engine (Content-based Filtering/Knowledge-based Filtering)
+- Deployment on GCP or AWS or Mobile Platform(Herokuapp only support 5000 Lines for free version)
+- Current Work:
+  - Data ETL: [Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Business-Analytics-Platform/blob/master/Data_ETL.ipynb)
+  - Rating Prediction and Item-based Collaborative filtering Recommendation algorithm [Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Business-Analytics-Platform/blob/master/Rating%20Prediction%20and%20Recommendation%20Engine.ipynb)
+  - Flask Web Server and API functionalities [app.py](https://github.com/Pyligent/Business-Analytics-Platform/blob/master/app.py)
+  - Data Analytics Web application [Javascript/D3](https://github.com/Pyligent/Business-Analytics-Platform/tree/master/static/js)
+<hr>
+
 
 
 ### Data Sets
@@ -29,7 +42,7 @@ A unified business data analytics platform will solve this problem. This platfor
 ![img](/img/yelpdata.png)
 <hr>
 
-### Project Overview
+### Project Architecture and Functionalities
 - This project is a full-stack data analytics application. The whole process incudes:
   + Get the raw data (From the Yelp.com)
   + Data Preprocessing, Extract-Transform-Load (JSON to CSV, Database: PostgreSQL 10)
