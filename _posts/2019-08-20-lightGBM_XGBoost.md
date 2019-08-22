@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Light GBM model vs XGBoost Model 
+title: Light GBM model vs XGBoost Model Parameter Tuning and Examples
 subtitle:  Decision Tree Model Comparsion
 bigimg: /img/treemodel.jpeg
 image: /img/leaf.jpeg
@@ -11,6 +11,8 @@ tags: [XGBoost,LightGBM,Machine Learning,Python]
 ## Light GBM model vs XGBoost Model
 
 In this blog, I have summarized the two most high performance tree models: Light GBM and XGBoost. Also I use the [Census Income dataset](https://archive.ics.uci.edu/ml/datasets/census+income) to verify their performances and baisc usages. You can reference my juypter [notebook here](https://nbviewer.jupyter.org/github/Pyligent/lightGBM_vs_XGBoost/blob/master/Light%20GBM%20vs%20xgboost%20Model.ipynb).
+
+Also I use the housing price dataset and present a simple XGBoost Model parameters tuning method. The Jupyter notebook is  [here](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/XGBoost%20and%20Gradient%20Boosting.ipynb)
 
 ### 1.Light GBM model
 
