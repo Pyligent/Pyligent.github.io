@@ -30,7 +30,7 @@ subtitle: "All Projects"
 
 ### Machine Learning Projects   
 
-##### - [Light GBM model vs XGBoost Model](https://github.com/Pyligent/lightGBM_vs_XGBoost)
+##### - [Light GBM model vs XGBoost Model Tuning and Examples](https://github.com/Pyligent/lightGBM_vs_XGBoost)
 
 ##### - [Oscar Movie Prediction Models - Logisitc regression/GBM/Ensemble](https://github.com/Pyligent/2019_Oscar_Best_Picture_Prediction)    
    
