@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Data Leakage in Machine Learning Models
-bigimg: /img/treemodel.jpeg
-image: /img/leaf.jpeg
+bigimg: /img/leakage.jpeg
+image: /img/leakage.jpeg
 tags: [Machine Learning,Python, blog]
 ---
 
