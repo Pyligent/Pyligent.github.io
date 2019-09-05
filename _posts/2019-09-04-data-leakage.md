@@ -6,7 +6,7 @@ image: /img/leakage.jpg
 tags: [Machine Learning,Python, blog]
 ---
 
-## Data Leakage
+## Data Leakage 
 
 
 **Data leakage** (or leakage) happens when your training data contains information about the target, but similar data will not be available when the model is used for prediction. This leads to high performance on the training set (and possibly even the validation data), but the model will perform poorly in production.
@@ -30,3 +30,5 @@ A different type of leak occurs when you aren't careful to distinguish training 
 Recall that validation is meant to be a measure of how the model does on data that it hasn't considered before. You can corrupt this process in subtle ways if the validation data affects the preprocessing behavior. This is sometimes called train-test contamination.
 
 **If your validation is based on a simple train-test split, exclude the validation data from any type of fitting, including the fitting of preprocessing steps. This is easier if you use scikit-learn pipelines. When using cross-validation, it's even more critical that you do your preprocessing inside the pipeline!**
+
+### [Problems Jupyter Notebooks](https://nbviewer.jupyter.org/github/Pyligent/Data-Leakage/blob/master/Data%20Leakage.ipynb)
