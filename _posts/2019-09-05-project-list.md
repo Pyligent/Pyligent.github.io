@@ -1,18 +1,14 @@
 ---
 layout: post
 image: '/img/background1.jpg'
-title: "Projects List"
-subtitle: "All Projects"
+title: "Project and Blog Lists"
+subtitle:
 ---
-
-### Welcome to Tao Jin's GitHub Pages
-
-"Torture the data, and it will confess to anything.”  - Ronald Coase
 
 ### Project and Blog Lists   
 
 <hr>
-### Blogs     
+#### Blogs     
 
 ##### - [Light GBM model vs XGBoost Model Tuning and Examples](https://github.com/Pyligent/lightGBM_vs_XGBoost)
 
@@ -20,7 +16,7 @@ subtitle: "All Projects"
 
 
 
-### Full Stack Projects
+#### Full Stack Projects
 
 ##### - [Unified Business Data Analytics Platform](https://github.com/Pyligent/Business-Analytics-Platform/edit/master/README.md)
 
@@ -52,7 +48,7 @@ subtitle: "All Projects"
 ##### - [Social Media Mining - Twitter Analysis](https://github.com/Pyligent/Social-Media-Mining)
 <hr>
 
-### Data Visualization/Web Scraping/Restful API/Python Flask Flask/JavaScript Projects   
+#### Data Visualization/Web Scraping/Restful API/Python Flask Flask/JavaScript Projects   
 
 ##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
 
