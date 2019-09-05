@@ -12,7 +12,8 @@ subtitle: "All Projects"
 ### Project and Blog Lists   
 
 <hr>
-### Blogs
+### Blogs     
+
 ##### - [Light GBM model vs XGBoost Model Tuning and Examples](https://github.com/Pyligent/lightGBM_vs_XGBoost)
 
 ##### - [Data Leakage in Machine Learning models][https://github.com/Pyligent/Data-Leakage]
