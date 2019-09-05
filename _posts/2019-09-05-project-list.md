@@ -5,18 +5,17 @@ title: "Project and Blog Lists"
 subtitle:
 ---
 
-### Project and Blog Lists   
-
 <hr>
-#### Blogs     
+### Blogs     
 
 ##### - [Light GBM model vs XGBoost Model Tuning and Examples](https://github.com/Pyligent/lightGBM_vs_XGBoost)
 
 ##### - [Data Leakage in Machine Learning models](https://github.com/Pyligent/Data-Leakage)
 
 
+<hr>   
 
-#### Full Stack Projects
+### Full Stack Projects
 
 ##### - [Unified Business Data Analytics Platform](https://github.com/Pyligent/Business-Analytics-Platform/edit/master/README.md)
 
@@ -29,7 +28,7 @@ subtitle:
 
 ##### - [Data Analytics and Visualization Full Stack Application - Belly Button Biodiversity](https://github.com/Pyligent/belly_button_biodiversity)   
 
-
+   <hr>   
 
 ### Machine Learning Projects   
 
@@ -46,9 +45,10 @@ subtitle:
 ##### - [Time Series Analysis(ARIMA) - Tesla Stock Analysis](https://github.com/Pyligent/Telsa-Stock-Analysis-R-)
 
 ##### - [Social Media Mining - Twitter Analysis](https://github.com/Pyligent/Social-Media-Mining)
-<hr>
 
-#### Data Visualization/Web Scraping/Restful API/Python Flask Flask/JavaScript Projects   
+<hr>   
+
+###  Data Visualization/Web Scraping/Restful API/Python Flask Flask/JavaScript Projects   
 
 ##### - [Exploring Inc. Magazine's 2018 5000 fastest growing private companies in United States](https://github.com/Pyligent/Inc5000_Data_Viz_Project)
 
@@ -73,7 +73,7 @@ subtitle:
 ##### - [Tableau - CitiBike in NYC Analytics](https://public.tableau.com/profile/taojin5273#!/vizhome/CitiBikeMapsinNYC/Dashboard-UserType)
 
 
-<hr>
+<hr>   
 
 ### R Projects 
 
@@ -86,25 +86,25 @@ subtitle:
 <hr>
 
 
-### Python Challenge
+### Python Challenge   
 
 ##### - [Python Projects - Pandas/Matplotlib/Coding Challenge](https://github.com/Pyligent/python-challenge)
 
-<hr>
+<hr>   
 
 ### Peronal Startup Project
 
 ##### - [StyleMe Project(with MIT Entrepreneur Program)](https://github.com/Pyligent/fashionstyle_project)
+ 
+<hr>   
 
-<hr>
-
-### SQL Project
+### SQL Project   
 
 ##### - [SQL](https://github.com/Pyligent/SQL)
 
-<hr>
+<hr>   
 
-### Excel/VBA Analysis Project
+### Excel/VBA Analysis Project   
 
 ##### - [Wall Street Data Analysis](https://github.com/Pyligent/WallStreet-Multi-Year-Data-VBA-)
 
