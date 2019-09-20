@@ -15,6 +15,15 @@ subtitle:
 
 <hr>   
 
+ 
+
+### Secure Deep Learning Projects
+
+##### - [Encrypted Deep Learning by Pysyft](https://github.com/Pyligent/encrypted-deep-learning)
+
+
+<hr>  
+
 ### Full Stack Projects
 
 ##### - [Unified Business Data Analytics Platform](https://github.com/Pyligent/Business-Analytics-Platform/edit/master/README.md)
