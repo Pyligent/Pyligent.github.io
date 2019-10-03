@@ -74,7 +74,7 @@ each of which interact with one another. We develop a PyTorch model for sentimen
 
 - The AWS Deployment Web Data Flow
 
-![fig](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/Web%20App%20Diagram.svg)
+![fig](img/Web%20App%20Diagram.svg)
 
    
 The diagram above gives an overview of how the various services will work together. 
@@ -89,11 +89,11 @@ The diagram above gives an overview of how the various services will work togeth
  
  #### 9. Sentiment Analysis Web App Examples
  
- Example 1: ![fig1](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/example1.png)
+ Example 1: ![fig2](img/example1.png)
  
  <hr>
  
- Example 2: ![fig1](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/example2.png)
+ Example 2: ![fig1](img/example2.png)
  
  
  
