@@ -14,6 +14,11 @@ subtitle:
 
 
 <hr>   
+### Patent
+
+##### - [Method for optimal path selection in traversal of packets through network address translators]()
+
+<hr>
 
  
 
