@@ -24,6 +24,11 @@ subtitle:
 
 <hr>  
 
+### Machine Learning/Deep Learning Full Stack Application - Deployed in AWS/GCP
+
+##### - [Sentiment Analysis Web App - PyTorch Model and AWS SageMake Deployment](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment)
+
+
 ### Full Stack Projects
 
 ##### - [Unified Business Data Analytics Platform](https://github.com/Pyligent/Business-Analytics-Platform/edit/master/README.md)
