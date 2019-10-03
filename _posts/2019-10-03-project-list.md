@@ -31,7 +31,7 @@ subtitle:
     
     
     
-### Deep Learning Full Stack Application - Deployed in AWS/GCP
+### Deep Learning Full Stack Application - AWS/GCP Deployment
 
 ##### - [Sentiment Analysis Web App - PyTorch Model and AWS SageMake Deployment](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment)
 
