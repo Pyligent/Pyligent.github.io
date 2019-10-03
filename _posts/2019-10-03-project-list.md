@@ -16,7 +16,7 @@ subtitle:
 <hr>   
 ### Patent
 
-##### - [Method for optimal path selection in traversal of packets through network address translators]()
+##### - [Method for optimal path selection in traversal of packets through network address translators](https://github.com/Pyligent/pyligent.github.io/blob/master/_posts/2019-10-02-US-Patent.md)
 
 <hr>
 
