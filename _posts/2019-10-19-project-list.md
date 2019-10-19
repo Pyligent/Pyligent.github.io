@@ -35,6 +35,8 @@ subtitle:
 
 ##### - [Sentiment Analysis Web App - PyTorch Model and AWS SageMake Deployment](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment)
 
+##### - [Plagiarism Detection Model and AWS SageMaker Deployment](https://github.com/Pyligent/Plagiarism-Detection-Model-AWS)
+
 
 ### Full Stack Projects
 
