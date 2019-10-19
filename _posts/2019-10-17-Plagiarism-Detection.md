@@ -1,10 +1,16 @@
+---
+layout: post
+title: Plagiarism Detection Model - AWS SageMaker Deployment
+bigimg: /img/privacy.jpg
+image: /img/privacy.jpg
+tags: [Machine Learning,Python, Deep Learning, PyTorch, SKLearn, AWS,SageMaker]
+---
 
 
 
 
 
-
-## Sentiment Analysis Web App - SageMaker Deployment Project
+## Plagiarism Detection Model - SageMaker Deployment Project
 #### Develop SKLearn and PyTorch Model and Deploy to AWS via SageMaker 
 
 - Reference: ` Clough, P. and Stevenson, M. (2011) Developing a corpus of plagiarised short answers. Language Resources and Evaluation , 45 (1). pp. 5-24. ISSN 1574-020X.`
