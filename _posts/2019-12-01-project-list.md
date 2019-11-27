@@ -30,7 +30,11 @@ subtitle:
 <hr>  
     
 ### Computer Vision
-##### - [Food101 - Image Classification Challenge](https://github.com/Pyligent/food101-image-classification)
+##### - [Food101 - Image Classification SoTA Benchmark Challenge](https://github.com/Pyligent/food101-image-classification)
+
+##### - [Medical Image Application - RSNA Intracranial Hemorrhage Detection](https://github.com/Pyligent/RSNA-Medical-Image-Detection/blob/master/Capstone%20Project%20Report_v1.pdf)
+
+
 
 <hr>  
     
