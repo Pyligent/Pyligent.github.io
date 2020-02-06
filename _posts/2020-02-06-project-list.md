@@ -21,11 +21,10 @@ subtitle:
 <hr>
 
  
-
-### Secure Deep Learning Projects
-
-##### - [Encrypted Deep Learning by Pysyft](https://github.com/Pyligent/encrypted-deep-learning)
-
+<hr>  
+    
+### Natrual Langual Processing 
+##### - [Neural Machine Translation](https://github.com/Pyligent/Neual-Machine-Translation)
 
 <hr>  
     
@@ -38,14 +37,15 @@ subtitle:
 
 <hr>  
 
-<hr>  
-    
-### Natrual Langual Processing 
-##### - [Neural Machine Translation](https://github.com/Pyligent/food101-image-classification)
+### Secure Deep Learning Projects
 
+##### - [Encrypted Deep Learning by Pysyft](https://github.com/Pyligent/encrypted-deep-learning)
 
 
 <hr>  
+
+
+
     
 ### Deep Learning Full Stack Application - AWS/GCP Deployment
 
