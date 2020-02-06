@@ -24,7 +24,7 @@ subtitle:
 <hr>  
     
 ### Natrual Langual Processing 
-##### - [Neural Machine Translation](https://github.com/Pyligent/Neual-Machine-Translation)
+##### - [Neural Machine Translation- Bidirectional LSTM with Multiplicative Attention](https://github.com/Pyligent/Neual-Machine-Translation)
 
 <hr>  
     
