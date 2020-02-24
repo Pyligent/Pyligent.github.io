@@ -26,7 +26,7 @@ subtitle:
 ### Natrual Langual Processing 
 ##### - [Neural Machine Translation- Bidirectional LSTM with Multiplicative Attention](https://github.com/Pyligent/Neual-Machine-Translation)
 
-##### - [Character-based Neural Machine Translation- Convolution Encoder/Bidirectional LSTM decoder](https://github.com/Pyligent/Neual-Machine-Translation)
+##### - [Character-based Neural Machine Translation- Convolution Encoder/Bidirectional LSTM decoder](https://github.com/Pyligent/character-based-NMT)
 
 <hr>  
     
