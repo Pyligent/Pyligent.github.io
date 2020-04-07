@@ -35,7 +35,9 @@ subtitle:
 
 ##### - [Medical Image Application - RSNA Intracranial Hemorrhage Detection](https://github.com/Pyligent/RSNA-Medical-Image-Detection/blob/master/Capstone%20Project%20Report_v1.pdf)
 
+##### - [Detection&Segmentation, Multi-Labels Classification and Attributes Embedding](https://github.com/Pyligent/fashion-jeans-detection-attributes-BERT-embedding-multilabels)
 
+##### - [Image and Text Multimodal Fashion Style Search](https://github.com/Pyligent/Fashion-Image-Text-Multimodal-retrieval)
 
 <hr>  
 
