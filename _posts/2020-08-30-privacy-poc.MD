@@ -83,9 +83,9 @@ There are three main source categories for contextual data: third-party business
 - Images - inference the recent images 
   - Dectection: Person, Objects, Animals and others 
 - App activities
-  - Apps types and screen time
+  - Apps types and screen time    
  
- ### Archtecture 
+### Archtecture 
  
  - Mobile Side:
    - detection model for images detection/classification 
@@ -103,7 +103,7 @@ There are three main source categories for contextual data: third-party business
    
  ![img3](/img/pocv10-2.png)
  
- ### Application Cases
+### Application Cases
  
  - Sports Fan Engagement Application
  - Real Estate Lead Management
