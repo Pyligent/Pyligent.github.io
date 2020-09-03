@@ -43,6 +43,7 @@ subtitle:
 
 ### Secure Deep Learning Projects
 
+##### - [Proof of Concept Design of Privacy-Preserving ML Application](https://github.com/Pyligent/privacy-preserving-poc)
 ##### - [Encrypted Deep Learning by Pysyft](https://github.com/Pyligent/encrypted-deep-learning)
 
 
