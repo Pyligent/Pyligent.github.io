@@ -8,6 +8,8 @@ tags: [Machine Learning,Python, Deep Learning, Diffential Privacy, Privacy prese
 
 ## Privacy Preserving ML Application - PoC Design 
 
+#### Github [Link](https://github.com/Pyligent/privacy-preserving-poc)
+
 ## Homomorphic Encryption:
 The key is to allow the computation on the encryption data. Thus the data can remain confidential while it is processed. In mathematics, homomorphic is the transformation of one dataset into another while preserving the relationship between elements in both sets. 
 
@@ -100,5 +102,10 @@ There are three main source categories for contextual data: third-party business
    - Server side: Encryption Data with public key
    
  ![img](https://github.com/Pyligent/privacy-preserving-poc/blob/master/pocv10.png)
+ 
+ ### Application Cases
+ 
+ - Sports Fan Engagement Application
+ - Real Estate Lead Management
 
 
