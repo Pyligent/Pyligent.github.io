@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encrypted Deep Learning
+title: Privacy Preserving ML Application
 bigimg: /img/privacy.jpg
 image: /img/privacy.jpg
 tags: [Machine Learning,Python, Deep Learning, Diffential Privacy, Privacy preserving, Homomorphic Encryption]
