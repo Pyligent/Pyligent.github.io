@@ -101,7 +101,7 @@ There are three main source categories for contextual data: third-party business
    - Data Transfer: Fully Homomorphic Encryption 
    - Server side: Encryption Data with public key
    
- ![img](https://github.com/Pyligent/privacy-preserving-poc/blob/master/pocv10.png)
+ ![img3](/img/pocv10-2.png)
  
  ### Application Cases
  
